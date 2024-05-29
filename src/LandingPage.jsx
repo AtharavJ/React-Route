@@ -8,7 +8,7 @@ import Help from './Help';
 export default function () {
     return (
         <>
-            {/* <h2>This is Landig Page.</h2> */}
+
             <Router>
                 <Routes>
                     <Route path='/' element={<Home />} />
